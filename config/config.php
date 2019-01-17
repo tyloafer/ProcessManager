@@ -1,7 +1,7 @@
 <?php
 /**
  * @配置 manager 设置的一些属性
- * @authors Li Xiaoyu (lixiaoyu@myhexin.com)
+ * @authors TY loafer (tyloafer@gmail.com)
  * @date    2019-01-11 17:13:17
  */
 

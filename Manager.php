@@ -1,7 +1,7 @@
 <?php
 /**
- * @comment 
- * @authors Li Xiaoyu (lixiaoyu@myhexin.com)
+ * @comment
+ * @authors TY loafer (tyloafer@gmail.com)
  * @date    2019-01-11 17:12:42
  */
 namespace ProcessManager;

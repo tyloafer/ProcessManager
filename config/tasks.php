@@ -1,7 +1,7 @@
 <?php
 /**
- * @ 需要管理的任务 
- * @authors Li Xiaoyu (lixiaoyu@myhexin.com)
+ * @ 需要管理的任务
+ * @authors TY loafer (tyloafer@gmail.com)
  * @date    2019-01-12 13:59:30
  */
 

@@ -8,7 +8,7 @@
 return [
     [
         'action' => 'task1',
-        'work_num' => 5,
+        'work_num' => 3,
     ],
     [
         'action' => 'task2',
